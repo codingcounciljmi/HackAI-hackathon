@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+chat_history.json
+bug_history.json
+.vscode/
+saved_codes.json

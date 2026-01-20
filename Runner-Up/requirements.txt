@@ -1,0 +1,7 @@
+google-generativeai
+rich
+SpeechRecognition
+pyttsx3
+sounddevice
+numpy
+scipy
